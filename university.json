@@ -1,0 +1,16 @@
+{
+  "university": "SRM University",
+  "departments": [
+    {
+      "name": "Computer Science",
+      "professors": [
+        { "id": 1, "name": "Dr. Smith" },
+        { "id": 2, "name": "Dr. Brown" }
+      ],
+      "students": [
+        { "id": 101, "name": "Alice" },
+        { "id": 102, "name": "Bob" }
+      ]
+    }
+  ]
+}
